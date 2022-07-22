@@ -1,0 +1,2 @@
+# Research This: Technology
+Greatly reduces research output of researchers, leading to a much more even playing field between players who focus on science and those who do not; also makes science stations relevant again.
